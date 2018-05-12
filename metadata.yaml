@@ -1,0 +1,34 @@
+_repo: Plantation-Sketches_22673
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Devereux, Margaret
+    gutenberg_agent_id: '25481'
+    url: http://www.gutenberg.org/2009/agents/25481
+  editor:
+    agent_name: Winslow, Arthur
+    birthdate: 1860
+    gutenberg_agent_id: '36300'
+    url: http://www.gutenberg.org/2009/agents/36300
+description: ''
+gutenberg_issued: '2007-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22673'
+  lccn: 06020195
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Carolina -- Social life and customs'
+- !lcc 'F206'
+- !lcsh 'Plantation life'
+tableOfContents: Letter to my grandchildren -- Plantation life -- Going to the plantation
+  -- My own early home -- Two Bob Whites -- Little Dave -- The hog-feeder's day --
+  The junior reserve -- Mammy -- War reminiscences.
+title: Plantation Sketches
+url: http://www.gutenberg.org/ebooks/22673
